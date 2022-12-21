@@ -1,0 +1,16 @@
+PODS:
+  - accountDomain (1.0)
+
+DEPENDENCIES:
+  - accountDomain (from `../shared/domain/accountDomain`)
+
+EXTERNAL SOURCES:
+  accountDomain:
+    :path: "../shared/domain/accountDomain"
+
+SPEC CHECKSUMS:
+  accountDomain: eaf73a7ff7451cb21e03fa57159433834a28271f
+
+PODFILE CHECKSUM: ae7376c482d427a4de6321d21ceb14049c43752e
+
+COCOAPODS: 1.11.3
